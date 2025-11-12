@@ -2,7 +2,7 @@
 using HarmonyLib;
 
 
-[BepInPlugin("com.borenfenix.startwithfryingpan", "Start With Frying Pan", "1.0.1")]
+[BepInPlugin("com.borenfenix.startwithfryingpan", "Start With Frying Pan", "1.0.0")]
 public class StartWithFryingPanPlugin : BaseUnityPlugin
 {
 	private void Awake()
